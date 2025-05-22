@@ -1,8 +1,10 @@
-# 👋 Hello, I'm Jennifer
+
+# 👋 Hello
 <!---
 ![Banner Image](link-to-banner-image.png)
 --->
 
+<!---
 ## 🚀 About Me
 
 I'm an Organizational Behavior PhD student studying human perceptions, social norms, and identity.  I use quantitative experimental designs, archival data analysis, and meta-analysis to understand social-psychological research questions.  I'm always excited to learn new methods and collaborate on interesting projects!
